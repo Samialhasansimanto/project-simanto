@@ -1,6 +1,6 @@
-# Project Simanto
+# Project **Dream House | A Real Estate Company in Bangladesh**
 
-Welcome to **Dream House** – a personal web project designed to showcase creative web design, clean UI, and modern HTML/CSS structure. This project reflects an early-stage portfolio or static website that highlights front-end development skills.
+Welcome to **Dream House** – a personal web project designed to showcase creative web design, clean UI, and modern HTML/CSS structure. This project reflects an early stage portfolio or static website that highlights front-end development skills.
 
 ## 🔗 Live Demo
 
